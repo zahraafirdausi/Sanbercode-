@@ -94,6 +94,9 @@
         palindrome("nababan") ; // true
         palindrome("jambaban"); // false
         palindrome("racecar"); // true
+
+        palindrom("mawar");
+        palindrom("kasur");
     ?>
 </body>
 </html>
